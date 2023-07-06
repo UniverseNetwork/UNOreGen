@@ -8,7 +8,7 @@ Paper 1.16.5
 
 Documentation, Tutorial and Setup: https://docs.spaceio.xyz/plugin/customoregen/
 
-A neat solution for modifying the default ore generator of minecraft. The must-have for every skyblock server!
+A neat solution for modifying the default ore generator of minecraft. The must-have for every island server!
 
 ### Supported plugins
 
